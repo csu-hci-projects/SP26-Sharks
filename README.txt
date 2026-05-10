@@ -63,17 +63,15 @@ Project Scripts:
 * TimeRemainingDisplay.cs: Displays remaining game time.
 
 Video Links:
-Short Overview Video:
-ADD LINK HERE
 
 Presentation Video:
-ADD LINK HERE
+https://youtube.com/shorts/PqchMS2NNbU?feature=share
 
 Programming / Code Explanation Video:
-ADD LINK HERE
+https://youtube.com/shorts/hDimBtafTLA?feature=share
 
 GitHub Repository:
-ADD LINK HERE
+https://github.com/csu-hci-projects/SP26-Sharks
 
 Project Notes:
 This project demonstrates the use of VR interaction systems, Unity physics, controller-based gameplay, and immersive sports simulation design. The project focuses on creating an interactive VR basketball experience using Unity and Meta Quest 2 integration.
